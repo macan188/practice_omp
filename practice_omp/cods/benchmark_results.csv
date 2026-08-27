@@ -1,0 +1,401 @@
+OS,Interpreter,Data_Type,Algorithm,Size,Time_ms,Memory_KB
+Win,CPython,Random,Bubble,10,0.3072,0.1875
+Win,CPython,Random,Selection,10,0.0375,0.1875
+Win,CPython,Random,Insertion,10,0.0114,0.1562
+Win,CPython,Random,Merge,10,0.0971,0.2578
+Win,CPython,Random,Quick,10,0.0751,0.4531
+Win,CPython,Random,Heap,10,0.0417,0.3906
+Win,CPython,Random,Counting,10,0.0697,0.4219
+Win,CPython,Random,Radix,10,0.1048,0.7891
+Win,CPython,Random,Bucket,10,0.0525,0.3828
+Win,CPython,Random,Built-in,10,0.0053,0.1484
+Win,CPython,Random,Bubble,500,76.253,4.1367
+Win,CPython,Random,Selection,500,38.8504,4.1367
+Win,CPython,Random,Insertion,500,25.406,4.043
+Win,CPython,Random,Merge,500,1.7202,8.2578
+Win,CPython,Random,Quick,500,1.9326,18.7344
+Win,CPython,Random,Heap,500,2.12,4.3867
+Win,CPython,Random,Counting,500,1.552,21.1758
+Win,CPython,Random,Radix,500,0.6224,12.7812
+Win,CPython,Random,Bucket,500,0.6862,10.0625
+Win,CPython,Random,Built-in,500,0.04,3.9766
+Win,CPython,Random,Bubble,1000,478.7552,8.0742
+Win,CPython,Random,Selection,1000,220.389,8.0742
+Win,CPython,Random,Insertion,1000,200.3718,7.9492
+Win,CPython,Random,Merge,1000,5.5977,16.8438
+Win,CPython,Random,Quick,1000,3.6397,33.3984
+Win,CPython,Random,Heap,1000,6.2946,8.3555
+Win,CPython,Random,Counting,1000,3.8651,45.2227
+Win,CPython,Random,Radix,1000,1.1514,25.9062
+Win,CPython,Random,Bucket,1000,1.4528,22.1562
+Win,CPython,Random,Built-in,1000,0.087,11.7578
+Win,CPython,Random,Bubble,50000,N/A,N/A
+Win,CPython,Random,Selection,50000,N/A,N/A
+Win,CPython,Random,Insertion,50000,N/A,N/A
+Win,CPython,Random,Merge,50000,904.5183,861.7812
+Win,CPython,Random,Quick,50000,350.9373,1869.5
+Win,CPython,Random,Heap,50000,1455.685,391.543
+Win,CPython,Random,Counting,50000,208.2967,2442.1367
+Win,CPython,Random,Radix,50000,150.6796,1276.5
+Win,CPython,Random,Bucket,50000,103.9356,1235.5859
+Win,CPython,Random,Built-in,50000,6.0711,585.9297
+Win,CPython,Random,Bubble,1000000,N/A,N/A
+Win,CPython,Random,Selection,1000000,N/A,N/A
+Win,CPython,Random,Insertion,1000000,N/A,N/A
+Win,CPython,Random,Merge,1000000,27913.7214,16390.0312
+Win,CPython,Random,Quick,1000000,6156.2217,29411.7578
+Win,CPython,Random,Heap,1000000,27646.5484,7813.668
+Win,CPython,Random,Counting,1000000,3892.3312,48527.6992
+Win,CPython,Random,Radix,1000000,3678.7761,24910.0
+Win,CPython,Random,Bucket,1000000,3023.0671,24832.3828
+Win,CPython,Random,Built-in,1000000,204.1519,11718.5859
+Win,CPython,Sorted,Bubble,10,0.0138,0.1875
+Win,CPython,Sorted,Selection,10,0.0147,0.1875
+Win,CPython,Sorted,Insertion,10,0.003,0.1562
+Win,CPython,Sorted,Merge,10,0.033,0.2891
+Win,CPython,Sorted,Quick,10,0.0281,0.375
+Win,CPython,Sorted,Heap,10,0.0158,0.4609
+Win,CPython,Sorted,Counting,10,0.0197,0.3359
+Win,CPython,Sorted,Radix,10,0.022,0.7344
+Win,CPython,Sorted,Bucket,10,0.0177,0.3828
+Win,CPython,Sorted,Built-in,10,0.0031,0.1484
+Win,CPython,Sorted,Bubble,500,0.2223,4.1055
+Win,CPython,Sorted,Selection,500,39.1772,4.1367
+Win,CPython,Sorted,Insertion,500,0.3762,4.043
+Win,CPython,Sorted,Merge,500,1.4447,9.7969
+Win,CPython,Sorted,Quick,500,1.3369,12.3438
+Win,CPython,Sorted,Heap,500,2.5177,4.457
+Win,CPython,Sorted,Counting,500,0.881,15.7227
+Win,CPython,Sorted,Radix,500,0.4108,12.5625
+Win,CPython,Sorted,Bucket,500,0.5214,10.9766
+Win,CPython,Sorted,Built-in,500,0.0039,3.9766
+Win,CPython,Sorted,Bubble,1000,0.9839,8.0117
+Win,CPython,Sorted,Selection,1000,194.5521,8.0742
+Win,CPython,Sorted,Insertion,1000,1.0096,7.9492
+Win,CPython,Sorted,Merge,1000,3.7394,19.5938
+Win,CPython,Sorted,Quick,1000,2.6904,24.4062
+Win,CPython,Sorted,Heap,1000,7.236,8.4258
+Win,CPython,Sorted,Counting,1000,1.9788,39.7852
+Win,CPython,Sorted,Radix,1000,0.8516,25.8438
+Win,CPython,Sorted,Bucket,1000,1.1506,22.9453
+Win,CPython,Sorted,Built-in,1000,0.007,7.8828
+Win,CPython,Sorted,Bubble,50000,N/A,N/A
+Win,CPython,Sorted,Selection,50000,N/A,N/A
+Win,CPython,Sorted,Insertion,50000,N/A,N/A
+Win,CPython,Sorted,Merge,50000,502.1268,976.625
+Win,CPython,Sorted,Quick,50000,186.1302,1234.7188
+Win,CPython,Sorted,Heap,50000,905.4725,391.6133
+Win,CPython,Sorted,Counting,50000,111.3504,2379.1602
+Win,CPython,Sorted,Radix,50000,84.685,1283.6875
+Win,CPython,Sorted,Bucket,50000,97.5906,1336.1328
+Win,CPython,Sorted,Built-in,50000,0.295,390.6953
+Win,CPython,Sorted,Bubble,1000000,N/A,N/A
+Win,CPython,Sorted,Selection,1000000,N/A,N/A
+Win,CPython,Sorted,Insertion,1000000,N/A,N/A
+Win,CPython,Sorted,Merge,1000000,14846.0271,19531.3125
+Win,CPython,Sorted,Quick,1000000,3676.8905,24114.3438
+Win,CPython,Sorted,Heap,1000000,27216.6681,7813.668
+Win,CPython,Sorted,Counting,1000000,2268.319,47305.2852
+Win,CPython,Sorted,Radix,1000000,2727.7428,24323.125
+Win,CPython,Sorted,Bucket,1000000,2381.9703,26649.2734
+Win,CPython,Sorted,Built-in,1000000,10.9146,7812.5703
+Win,CPython,Reversed,Bubble,10,0.0367,0.1875
+Win,CPython,Reversed,Selection,10,0.013,0.1875
+Win,CPython,Reversed,Insertion,10,0.0069,0.1562
+Win,CPython,Reversed,Merge,10,0.0334,0.2891
+Win,CPython,Reversed,Quick,10,0.028,0.3906
+Win,CPython,Reversed,Heap,10,0.0155,0.4609
+Win,CPython,Reversed,Counting,10,0.0232,0.3359
+Win,CPython,Reversed,Radix,10,0.0365,0.7344
+Win,CPython,Reversed,Bucket,10,0.0206,0.3828
+Win,CPython,Reversed,Built-in,10,0.0038,0.1484
+Win,CPython,Reversed,Bubble,500,65.0049,4.1367
+Win,CPython,Reversed,Selection,500,39.426,4.1367
+Win,CPython,Reversed,Insertion,500,34.0597,4.043
+Win,CPython,Reversed,Merge,500,1.5418,9.7969
+Win,CPython,Reversed,Quick,500,1.3024,12.3672
+Win,CPython,Reversed,Heap,500,1.5988,4.457
+Win,CPython,Reversed,Counting,500,0.8579,15.7539
+Win,CPython,Reversed,Radix,500,0.4026,12.5938
+Win,CPython,Reversed,Bucket,500,0.6311,10.9766
+Win,CPython,Reversed,Built-in,500,0.0045,3.9766
+Win,CPython,Reversed,Bubble,1000,555.9069,8.0742
+Win,CPython,Reversed,Selection,1000,195.7483,8.0742
+Win,CPython,Reversed,Insertion,1000,281.6293,7.9492
+Win,CPython,Reversed,Merge,1000,3.7709,19.5938
+Win,CPython,Reversed,Quick,1000,2.6868,24.4297
+Win,CPython,Reversed,Heap,1000,4.9779,8.4258
+Win,CPython,Reversed,Counting,1000,2.0249,39.8164
+Win,CPython,Reversed,Radix,1000,0.9581,26.0625
+Win,CPython,Reversed,Bucket,1000,1.4301,22.9453
+Win,CPython,Reversed,Built-in,1000,0.0076,7.8828
+Win,CPython,Reversed,Bubble,50000,N/A,N/A
+Win,CPython,Reversed,Selection,50000,N/A,N/A
+Win,CPython,Reversed,Insertion,50000,N/A,N/A
+Win,CPython,Reversed,Merge,50000,537.2036,976.625
+Win,CPython,Reversed,Quick,50000,189.0472,1234.7422
+Win,CPython,Reversed,Heap,50000,775.3339,391.6133
+Win,CPython,Reversed,Counting,50000,117.4203,2379.1914
+Win,CPython,Reversed,Radix,50000,87.0547,1283.7188
+Win,CPython,Reversed,Bucket,50000,107.8136,1336.1016
+Win,CPython,Reversed,Built-in,50000,0.34,390.6953
+Win,CPython,Reversed,Bubble,1000000,N/A,N/A
+Win,CPython,Reversed,Selection,1000000,N/A,N/A
+Win,CPython,Reversed,Insertion,1000000,N/A,N/A
+Win,CPython,Reversed,Merge,1000000,15043.5413,19531.3125
+Win,CPython,Reversed,Quick,1000000,3687.5864,24114.3672
+Win,CPython,Reversed,Heap,1000000,24264.828,7813.668
+Win,CPython,Reversed,Counting,1000000,2334.7829,47305.3164
+Win,CPython,Reversed,Radix,1000000,2915.0467,24752.25
+Win,CPython,Reversed,Bucket,1000000,2644.6337,26649.2422
+Win,CPython,Reversed,Built-in,1000000,11.8834,7812.5703
+Win,CPython,Almost Sorted,Bubble,10,0.016,0.1875
+Win,CPython,Almost Sorted,Selection,10,0.0148,0.1875
+Win,CPython,Almost Sorted,Insertion,10,0.0026,0.1562
+Win,CPython,Almost Sorted,Merge,10,0.0353,0.2891
+Win,CPython,Almost Sorted,Quick,10,0.0295,0.375
+Win,CPython,Almost Sorted,Heap,10,0.0167,0.4609
+Win,CPython,Almost Sorted,Counting,10,0.0224,0.3359
+Win,CPython,Almost Sorted,Radix,10,0.0225,0.7344
+Win,CPython,Almost Sorted,Bucket,10,0.018,0.3828
+Win,CPython,Almost Sorted,Built-in,10,0.0032,0.1484
+Win,CPython,Almost Sorted,Bubble,500,32.146,4.1367
+Win,CPython,Almost Sorted,Selection,500,39.5371,4.1367
+Win,CPython,Almost Sorted,Insertion,500,3.754,4.043
+Win,CPython,Almost Sorted,Merge,500,1.6191,8.3047
+Win,CPython,Almost Sorted,Quick,500,1.5868,12.8281
+Win,CPython,Almost Sorted,Heap,500,2.4401,4.457
+Win,CPython,Almost Sorted,Counting,500,0.8216,15.7227
+Win,CPython,Almost Sorted,Radix,500,0.4138,12.5625
+Win,CPython,Almost Sorted,Bucket,500,0.5271,10.9766
+Win,CPython,Almost Sorted,Built-in,500,0.018,3.9766
+Win,CPython,Almost Sorted,Bubble,1000,275.0729,8.0742
+Win,CPython,Almost Sorted,Selection,1000,192.5338,8.0742
+Win,CPython,Almost Sorted,Insertion,1000,25.868,7.9492
+Win,CPython,Almost Sorted,Merge,1000,5.3809,16.9531
+Win,CPython,Almost Sorted,Quick,1000,3.3353,32.4297
+Win,CPython,Almost Sorted,Heap,1000,7.2202,8.4258
+Win,CPython,Almost Sorted,Counting,1000,2.1975,39.7852
+Win,CPython,Almost Sorted,Radix,1000,0.8687,25.8438
+Win,CPython,Almost Sorted,Bucket,1000,1.1747,22.9453
+Win,CPython,Almost Sorted,Built-in,1000,0.0349,11.6172
+Win,CPython,Almost Sorted,Bubble,50000,N/A,N/A
+Win,CPython,Almost Sorted,Selection,50000,N/A,N/A
+Win,CPython,Almost Sorted,Insertion,50000,N/A,N/A
+Win,CPython,Almost Sorted,Merge,50000,872.4837,861.9375
+Win,CPython,Almost Sorted,Quick,50000,184.6986,1255.125
+Win,CPython,Almost Sorted,Heap,50000,902.3633,391.6133
+Win,CPython,Almost Sorted,Counting,50000,113.5803,2379.1602
+Win,CPython,Almost Sorted,Radix,50000,86.2147,1283.6875
+Win,CPython,Almost Sorted,Bucket,50000,97.8311,1336.1328
+Win,CPython,Almost Sorted,Built-in,50000,1.6491,585.7422
+Win,CPython,Almost Sorted,Bubble,1000000,N/A,N/A
+Win,CPython,Almost Sorted,Selection,1000000,N/A,N/A
+Win,CPython,Almost Sorted,Insertion,1000000,N/A,N/A
+Win,CPython,Almost Sorted,Merge,1000000,26922.5655,16390.1562
+Win,CPython,Almost Sorted,Quick,1000000,4434.4024,24869.6328
+Win,CPython,Almost Sorted,Heap,1000000,27269.4135,7813.668
+Win,CPython,Almost Sorted,Counting,1000000,2297.7215,47305.2852
+Win,CPython,Almost Sorted,Radix,1000000,2754.2562,24323.125
+Win,CPython,Almost Sorted,Bucket,1000000,2581.7933,26649.2734
+Win,CPython,Almost Sorted,Built-in,1000000,74.0306,11718.6328
+Win,PyPy,Random,Bubble,10,0.0607,N/A
+Win,PyPy,Random,Selection,10,0.0309,N/A
+Win,PyPy,Random,Insertion,10,0.0121,N/A
+Win,PyPy,Random,Merge,10,0.0652,N/A
+Win,PyPy,Random,Quick,10,0.0486,N/A
+Win,PyPy,Random,Heap,10,0.0684,N/A
+Win,PyPy,Random,Counting,10,0.2467,N/A
+Win,PyPy,Random,Radix,10,0.0475,N/A
+Win,PyPy,Random,Bucket,10,0.064,N/A
+Win,PyPy,Random,Built-in,10,0.0306,N/A
+Win,PyPy,Random,Bubble,500,20.1138,N/A
+Win,PyPy,Random,Selection,500,3.1675,N/A
+Win,PyPy,Random,Insertion,500,2.925,N/A
+Win,PyPy,Random,Merge,500,11.6212,N/A
+Win,PyPy,Random,Quick,500,16.2706,N/A
+Win,PyPy,Random,Heap,500,19.065,N/A
+Win,PyPy,Random,Counting,500,2.3677,N/A
+Win,PyPy,Random,Radix,500,2.3811,N/A
+Win,PyPy,Random,Bucket,500,0.6699,N/A
+Win,PyPy,Random,Built-in,500,0.0566,N/A
+Win,PyPy,Random,Bubble,1000,1.0286,N/A
+Win,PyPy,Random,Selection,1000,0.5071,N/A
+Win,PyPy,Random,Insertion,1000,0.2872,N/A
+Win,PyPy,Random,Merge,1000,5.9888,N/A
+Win,PyPy,Random,Quick,1000,3.9777,N/A
+Win,PyPy,Random,Heap,1000,43.8507,N/A
+Win,PyPy,Random,Counting,1000,2.8748,N/A
+Win,PyPy,Random,Radix,1000,0.2482,N/A
+Win,PyPy,Random,Bucket,1000,3.8701,N/A
+Win,PyPy,Random,Built-in,1000,0.0903,N/A
+Win,PyPy,Random,Bubble,50000,N/A,N/A
+Win,PyPy,Random,Selection,50000,N/A,N/A
+Win,PyPy,Random,Insertion,50000,N/A,N/A
+Win,PyPy,Random,Merge,50000,87.2628,N/A
+Win,PyPy,Random,Quick,50000,53.2079,N/A
+Win,PyPy,Random,Heap,50000,297.4955,N/A
+Win,PyPy,Random,Counting,50000,5.811,N/A
+Win,PyPy,Random,Radix,50000,17.9266,N/A
+Win,PyPy,Random,Bucket,50000,23.7812,N/A
+Win,PyPy,Random,Built-in,50000,7.7089,N/A
+Win,PyPy,Random,Bubble,1000000,N/A,N/A
+Win,PyPy,Random,Selection,1000000,N/A,N/A
+Win,PyPy,Random,Insertion,1000000,N/A,N/A
+Win,PyPy,Random,Merge,1000000,560.4171,N/A
+Win,PyPy,Random,Quick,1000000,898.7731,N/A
+Win,PyPy,Random,Heap,1000000,667.433,N/A
+Win,PyPy,Random,Counting,1000000,62.8606,N/A
+Win,PyPy,Random,Radix,1000000,369.1246,N/A
+Win,PyPy,Random,Bucket,1000000,157.6915,N/A
+Win,PyPy,Random,Built-in,1000000,149.992,N/A
+Win,PyPy,Sorted,Bubble,10,0.0296,N/A
+Win,PyPy,Sorted,Selection,10,0.0138,N/A
+Win,PyPy,Sorted,Insertion,10,0.0058,N/A
+Win,PyPy,Sorted,Merge,10,0.0087,N/A
+Win,PyPy,Sorted,Quick,10,0.009,N/A
+Win,PyPy,Sorted,Heap,10,0.0949,N/A
+Win,PyPy,Sorted,Counting,10,0.0518,N/A
+Win,PyPy,Sorted,Radix,10,0.0742,N/A
+Win,PyPy,Sorted,Bucket,10,0.0389,N/A
+Win,PyPy,Sorted,Built-in,10,0.0094,N/A
+Win,PyPy,Sorted,Bubble,500,0.0077,N/A
+Win,PyPy,Sorted,Selection,500,0.1684,N/A
+Win,PyPy,Sorted,Insertion,500,0.016,N/A
+Win,PyPy,Sorted,Merge,500,0.1033,N/A
+Win,PyPy,Sorted,Quick,500,0.1952,N/A
+Win,PyPy,Sorted,Heap,500,1.4029,N/A
+Win,PyPy,Sorted,Counting,500,0.621,N/A
+Win,PyPy,Sorted,Radix,500,0.2486,N/A
+Win,PyPy,Sorted,Bucket,500,0.0459,N/A
+Win,PyPy,Sorted,Built-in,500,0.01,N/A
+Win,PyPy,Sorted,Bubble,1000,0.0683,N/A
+Win,PyPy,Sorted,Selection,1000,1.004,N/A
+Win,PyPy,Sorted,Insertion,1000,0.0331,N/A
+Win,PyPy,Sorted,Merge,1000,0.4243,N/A
+Win,PyPy,Sorted,Quick,1000,0.7539,N/A
+Win,PyPy,Sorted,Heap,1000,2.0195,N/A
+Win,PyPy,Sorted,Counting,1000,0.7275,N/A
+Win,PyPy,Sorted,Radix,1000,0.2129,N/A
+Win,PyPy,Sorted,Bucket,1000,0.0815,N/A
+Win,PyPy,Sorted,Built-in,1000,0.0191,N/A
+Win,PyPy,Sorted,Bubble,50000,N/A,N/A
+Win,PyPy,Sorted,Selection,50000,N/A,N/A
+Win,PyPy,Sorted,Insertion,50000,N/A,N/A
+Win,PyPy,Sorted,Merge,50000,7.0915,N/A
+Win,PyPy,Sorted,Quick,50000,25.5856,N/A
+Win,PyPy,Sorted,Heap,50000,24.5942,N/A
+Win,PyPy,Sorted,Counting,50000,1.2759,N/A
+Win,PyPy,Sorted,Radix,50000,32.9506,N/A
+Win,PyPy,Sorted,Bucket,50000,15.4961,N/A
+Win,PyPy,Sorted,Built-in,50000,0.2732,N/A
+Win,PyPy,Sorted,Bubble,1000000,N/A,N/A
+Win,PyPy,Sorted,Selection,1000000,N/A,N/A
+Win,PyPy,Sorted,Insertion,1000000,N/A,N/A
+Win,PyPy,Sorted,Merge,1000000,435.1242,N/A
+Win,PyPy,Sorted,Quick,1000000,460.2767,N/A
+Win,PyPy,Sorted,Heap,1000000,350.198,N/A
+Win,PyPy,Sorted,Counting,1000000,58.2617,N/A
+Win,PyPy,Sorted,Radix,1000000,553.9667,N/A
+Win,PyPy,Sorted,Bucket,1000000,85.1199,N/A
+Win,PyPy,Sorted,Built-in,1000000,4.9634,N/A
+Win,PyPy,Reversed,Bubble,10,0.0396,N/A
+Win,PyPy,Reversed,Selection,10,0.0362,N/A
+Win,PyPy,Reversed,Insertion,10,0.0174,N/A
+Win,PyPy,Reversed,Merge,10,0.0128,N/A
+Win,PyPy,Reversed,Quick,10,0.0132,N/A
+Win,PyPy,Reversed,Heap,10,0.1129,N/A
+Win,PyPy,Reversed,Counting,10,0.1059,N/A
+Win,PyPy,Reversed,Radix,10,0.1781,N/A
+Win,PyPy,Reversed,Bucket,10,0.085,N/A
+Win,PyPy,Reversed,Built-in,10,0.0177,N/A
+Win,PyPy,Reversed,Bubble,500,0.2908,N/A
+Win,PyPy,Reversed,Selection,500,0.5671,N/A
+Win,PyPy,Reversed,Insertion,500,0.3239,N/A
+Win,PyPy,Reversed,Merge,500,0.2892,N/A
+Win,PyPy,Reversed,Quick,500,3.393,N/A
+Win,PyPy,Reversed,Heap,500,0.5804,N/A
+Win,PyPy,Reversed,Counting,500,1.7027,N/A
+Win,PyPy,Reversed,Radix,500,0.6155,N/A
+Win,PyPy,Reversed,Bucket,500,0.3985,N/A
+Win,PyPy,Reversed,Built-in,500,0.0168,N/A
+Win,PyPy,Reversed,Bubble,1000,1.3967,N/A
+Win,PyPy,Reversed,Selection,1000,4.7054,N/A
+Win,PyPy,Reversed,Insertion,1000,1.4643,N/A
+Win,PyPy,Reversed,Merge,1000,0.414,N/A
+Win,PyPy,Reversed,Quick,1000,0.6391,N/A
+Win,PyPy,Reversed,Heap,1000,1.2447,N/A
+Win,PyPy,Reversed,Counting,1000,0.0975,N/A
+Win,PyPy,Reversed,Radix,1000,0.3052,N/A
+Win,PyPy,Reversed,Bucket,1000,0.7271,N/A
+Win,PyPy,Reversed,Built-in,1000,0.0208,N/A
+Win,PyPy,Reversed,Bubble,50000,N/A,N/A
+Win,PyPy,Reversed,Selection,50000,N/A,N/A
+Win,PyPy,Reversed,Insertion,50000,N/A,N/A
+Win,PyPy,Reversed,Merge,50000,23.3102,N/A
+Win,PyPy,Reversed,Quick,50000,49.1908,N/A
+Win,PyPy,Reversed,Heap,50000,37.4753,N/A
+Win,PyPy,Reversed,Counting,50000,1.7576,N/A
+Win,PyPy,Reversed,Radix,50000,23.5776,N/A
+Win,PyPy,Reversed,Bucket,50000,15.6603,N/A
+Win,PyPy,Reversed,Built-in,50000,0.3223,N/A
+Win,PyPy,Reversed,Bubble,1000000,N/A,N/A
+Win,PyPy,Reversed,Selection,1000000,N/A,N/A
+Win,PyPy,Reversed,Insertion,1000000,N/A,N/A
+Win,PyPy,Reversed,Merge,1000000,482.058,N/A
+Win,PyPy,Reversed,Quick,1000000,464.9126,N/A
+Win,PyPy,Reversed,Heap,1000000,432.5358,N/A
+Win,PyPy,Reversed,Counting,1000000,44.115,N/A
+Win,PyPy,Reversed,Radix,1000000,363.7474,N/A
+Win,PyPy,Reversed,Bucket,1000000,61.8976,N/A
+Win,PyPy,Reversed,Built-in,1000000,14.2363,N/A
+Win,PyPy,Almost Sorted,Bubble,10,0.0161,N/A
+Win,PyPy,Almost Sorted,Selection,10,0.0136,N/A
+Win,PyPy,Almost Sorted,Insertion,10,0.0051,N/A
+Win,PyPy,Almost Sorted,Merge,10,0.0111,N/A
+Win,PyPy,Almost Sorted,Quick,10,0.011,N/A
+Win,PyPy,Almost Sorted,Heap,10,0.0761,N/A
+Win,PyPy,Almost Sorted,Counting,10,0.0422,N/A
+Win,PyPy,Almost Sorted,Radix,10,0.0444,N/A
+Win,PyPy,Almost Sorted,Bucket,10,0.0256,N/A
+Win,PyPy,Almost Sorted,Built-in,10,0.0104,N/A
+Win,PyPy,Almost Sorted,Bubble,500,0.418,N/A
+Win,PyPy,Almost Sorted,Selection,500,0.1307,N/A
+Win,PyPy,Almost Sorted,Insertion,500,0.016,N/A
+Win,PyPy,Almost Sorted,Merge,500,0.1142,N/A
+Win,PyPy,Almost Sorted,Quick,500,0.2017,N/A
+Win,PyPy,Almost Sorted,Heap,500,0.4188,N/A
+Win,PyPy,Almost Sorted,Counting,500,1.9036,N/A
+Win,PyPy,Almost Sorted,Radix,500,0.1578,N/A
+Win,PyPy,Almost Sorted,Bucket,500,0.058,N/A
+Win,PyPy,Almost Sorted,Built-in,500,0.0302,N/A
+Win,PyPy,Almost Sorted,Bubble,1000,1.4056,N/A
+Win,PyPy,Almost Sorted,Selection,1000,0.4422,N/A
+Win,PyPy,Almost Sorted,Insertion,1000,0.0378,N/A
+Win,PyPy,Almost Sorted,Merge,1000,0.1902,N/A
+Win,PyPy,Almost Sorted,Quick,1000,0.855,N/A
+Win,PyPy,Almost Sorted,Heap,1000,0.5582,N/A
+Win,PyPy,Almost Sorted,Counting,1000,0.0496,N/A
+Win,PyPy,Almost Sorted,Radix,1000,0.198,N/A
+Win,PyPy,Almost Sorted,Bucket,1000,0.0845,N/A
+Win,PyPy,Almost Sorted,Built-in,1000,0.0557,N/A
+Win,PyPy,Almost Sorted,Bubble,50000,N/A,N/A
+Win,PyPy,Almost Sorted,Selection,50000,N/A,N/A
+Win,PyPy,Almost Sorted,Insertion,50000,N/A,N/A
+Win,PyPy,Almost Sorted,Merge,50000,10.3234,N/A
+Win,PyPy,Almost Sorted,Quick,50000,15.4419,N/A
+Win,PyPy,Almost Sorted,Heap,50000,25.3,N/A
+Win,PyPy,Almost Sorted,Counting,50000,4.5848,N/A
+Win,PyPy,Almost Sorted,Radix,50000,8.7669,N/A
+Win,PyPy,Almost Sorted,Bucket,50000,3.8893,N/A
+Win,PyPy,Almost Sorted,Built-in,50000,2.7623,N/A
+Win,PyPy,Almost Sorted,Bubble,1000000,N/A,N/A
+Win,PyPy,Almost Sorted,Selection,1000000,N/A,N/A
+Win,PyPy,Almost Sorted,Insertion,1000000,N/A,N/A
+Win,PyPy,Almost Sorted,Merge,1000000,356.2826,N/A
+Win,PyPy,Almost Sorted,Quick,1000000,509.4514,N/A
+Win,PyPy,Almost Sorted,Heap,1000000,529.1412,N/A
+Win,PyPy,Almost Sorted,Counting,1000000,46.1285,N/A
+Win,PyPy,Almost Sorted,Radix,1000000,331.685,N/A
+Win,PyPy,Almost Sorted,Bucket,1000000,107.9251,N/A
+Win,PyPy,Almost Sorted,Built-in,1000000,53.8165,N/A
